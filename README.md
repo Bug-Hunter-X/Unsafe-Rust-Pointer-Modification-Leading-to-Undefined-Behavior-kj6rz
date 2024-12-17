@@ -1,0 +1,1 @@
+This repository demonstrates a common error in unsafe Rust code where modifying a vector via a raw pointer can lead to undefined behavior if the vector's length is not properly managed. The solution showcases safe alternatives.
